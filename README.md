@@ -11,8 +11,8 @@ npm run serve
 
 
 Para funcionar via docker
-git clone
-docker-compose up --build
+- git clone
+- docker-compose up --build
 
 
 Video de demonstração
